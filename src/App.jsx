@@ -9,8 +9,8 @@ const App = () => {
             <ul className="nav-links">
                 <li><a href="#">Menu</a></li>
                 <li><a href="#">Location</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="Contact.jsx">Contact</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="Contact">Contact</a></li>
             </ul>
             <button className="btn">Login</button>
         </nav>
